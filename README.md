@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Virginie</h1>
+<h1 align="center">Hello 👋, I'm Virginia</h1>
 <h3 align="center">A passionate frontend developer from Paris</h3>
 
 - 📫 How to reach me **agathe.astrantia@gmail.com**
